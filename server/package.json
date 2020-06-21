@@ -1,0 +1,17 @@
+{
+  "name": "learn-demo-app",
+  "version": "1.0.0",
+  "description": "Demo app using crud operations",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gayatri Kawade",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.19",
+    "multer": "^1.4.2"
+  }
+}
